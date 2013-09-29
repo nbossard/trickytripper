@@ -2,3 +2,6 @@
 /gen/
 /target/
 /gen-external-apklibs/
+/build/
+/proguard_logs/
+/.settings/
