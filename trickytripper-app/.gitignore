@@ -1,7 +1,4 @@
-/bin/
-/target/
-/proguard_logs/
-/build/
-/.settings/
+/bin
 /gen/
+/target/
 /gen-external-apklibs/
