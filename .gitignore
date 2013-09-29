@@ -1,2 +1,10 @@
 /trickyTripperRobolectricTest/*.log
 /trickyTripperTest/*.log
+/out/
+/.idea/
+/gen/
+/.gradle/
+/META-INF/
+/res/
+/src/
+/*.bat
